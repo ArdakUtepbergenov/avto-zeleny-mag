@@ -2,8 +2,8 @@ import { Button } from "@/components/ui/button";
 import { MessageCircle, Send } from "lucide-react";
 
 const ContactButtons = () => {
-  const whatsappNumber = "77777777777"; // Replace with actual number
-  const telegramUsername = "avtoaksessuary06"; // Replace with actual username
+  const whatsappNumber = "77780063815"; // Replace with actual number
+  const telegramUsername = "+UqHesZqavsw1NTEy"; // Replace with actual username
 
   return (
     <section id="contact" className="py-16 bg-accent/30">
