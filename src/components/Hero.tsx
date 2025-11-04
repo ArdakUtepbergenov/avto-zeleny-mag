@@ -28,13 +28,13 @@ const Hero = () => {
               Смотреть каталог
             </Button>
             <Button 
-              size="lg" 
-              variant="outline" 
-              className="border-white text-primary hover:bg-white/10"
-              onClick={() => document.getElementById('contact')?.scrollIntoView({ behavior: 'smooth' })}
-            >
-              Связаться с нами
-            </Button>
+  size="lg" 
+  className="bg-neutral-900 text-white hover:bg-neutral-800 shadow-lg"
+  onClick={() => document.getElementById('contact')?.scrollIntoView({ behavior: 'smooth' })}
+>
+  Связаться с нами
+</Button>
+
           </div>
         </div>
       </div>
